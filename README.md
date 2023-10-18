@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on, Building automation solutions for DevOps.<br><br>💬 Ask me about Microsoft Azure, CI/CD, Docker, Ansible, Gradle, Linux<br><br>📫 How to reach me bhakti.v@outlook.com<br><br>⚡ Am fascinated by learning about Cloud, Automation, and Cyber-Security.
+🔭 I’m currently working on, Building automation solutions for DevOps.<br><br>💬 Ask me about Microsoft Azure, CI/CD, Docker, Ansible, Gradle, Linux<br><br>📫 How to reach me bhakti20150@gmail.com<br><br>⚡ Am fascinated by learning about Cloud, Automation, and Cyber-Security.
 
 
 ## 🌐 Socials:
